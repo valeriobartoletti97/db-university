@@ -9,3 +9,7 @@ Modellizzare la struttura di un database per memorizzare tutti i dati riguardant
 - ogni Studente è iscritto ad un solo Corso di Laurea;
 - ogni Studente può iscriversi a più appelli di Esame;
 - per ogni appello d'Esame a cui lo Studente ha partecipato, è necessario memorizzare il voto ottenuto, anche se non sufficiente.
+
+CONSEGNA GIORNO 2:
+
+Dopo aver creato un nuovo database nel vostro phpMyAdmin e aver importato lo schema allegato, eseguite le query del file allegato.
